@@ -1,2 +1,3 @@
 # hello-world
-trial repository
+
+Welcome to the world of git!
